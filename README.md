@@ -13,14 +13,18 @@ The work completed in this repo shows an understanding of contemporary methods o
 doing data transformations
 • Testing assumptions that data must meet for analyses and inferences to be
 reasonable
+
 • Interpreting data analysis results and outputs and communicating them to others
 using language that accurately describes uncertainty
+
 • Leaving a documentation/provenance trail for other analysts to follow and reproduce your work
  
 3. Demonstrate competence and/or mastery of the skills needed for use of a popular statistics and data management platform to conduct sound and reproducible analyses including:
 • Installing R and R-studio, and creating readable code to conduct analyses
+
 • Exploring the limitations of existing data sets and how their provenance
 influences what analyses to perform and what inferences to draw
+
 • Choosing appropriate R procedures and configuring the relevant operational
 parameters
  
